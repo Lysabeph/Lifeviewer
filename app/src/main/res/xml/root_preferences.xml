@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+
+    <PreferenceCategory app:title="@string/storage_header"
+        app:iconSpaceReserved="false">
+
+        <Preference app:iconSpaceReserved="false"
+            app:key="image_directory_path"
+            app:title="Image folder"
+            app:defaultValue="@string/not_found"
+            app:summary="@string/not_found" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

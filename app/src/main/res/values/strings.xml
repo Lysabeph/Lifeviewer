@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lifeviewer</string>
+
+    <string name="title_highlights">Highlights</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="storage_header">Storage</string>>
+    <string name="image_directory_settings_text">Images folder</string>
+
+    <string name="not_found">Not found</string>
+
+    <string name="comment_hint">Tap to write a comment</string>
+</resources>
